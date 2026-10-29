@@ -1,0 +1,8 @@
+{
+  "name": "Baldera Santos & Asociados - Portal Corporativo y Consultoría Fiscal",
+  "description": "Firma líder en servicios contables, asesoría fiscal DGII, nómina TSS, estados financieros y consultoría empresarial en Santo Domingo, República Dominicana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
